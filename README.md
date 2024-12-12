@@ -69,7 +69,7 @@ All operations are conducted within the `Online_RetailDB` schema.
 - `total_amount`
 
 ---
-Description of the Schema
+## Schema Description
 A straightforward relational database structure for handling retail operations, including customers, products, categories, and orders, is represented by this schema. It adheres to best practices like:
 
 
