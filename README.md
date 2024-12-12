@@ -69,3 +69,9 @@ All operations are conducted within the `Online_RetailDB` schema.
 - `total_amount`
 
 ---
+Description of the Schema
+A straightforward relational database structure for handling retail operations, including customers, products, categories, and orders, is represented by this schema. It adheres to best practices like:
+
+
+Primary keys are distinct identifiers that are automatically assigned to each record in a table using auto-increment.
+Foreign Keys: To preserve referential integrity, create associations between tables.
